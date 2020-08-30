@@ -8,3 +8,7 @@ Autocomplete based off API query
 ### Long-running processes
 Start and monitor one or several long-running processes
 
+
+## References
+
+[React patterns](https://reactpatterns.com/)
